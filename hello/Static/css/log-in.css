@@ -111,6 +111,28 @@ a{
     background-color: rgb(51, 51, 51);
 }
 
+
+.return{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: black;
+    width: auto;
+    border-radius: 10px;
+}
+
+.return a{
+    color: white;
+    display: block;
+    width: 100%;
+}
+
+
                             /********Footer********/
 
 .page-footer{
